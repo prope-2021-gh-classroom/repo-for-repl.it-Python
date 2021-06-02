@@ -15,5 +15,5 @@ m = middle_point(p1, p2)
 #n output with the result
 
 
-n = middle_point(7, np.pi())
+n = middle_point(7, np.pi)
 print(m)
